@@ -4,5 +4,5 @@ Cohen's kappa coefficient (κ) is a statistic which measures inter-rater agreeme
 
 ## Definition
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space; k =\frac{p_0-p_e}{1-p_e}"/>
+<img src="https://latex.codecogs.com/svg.latex?\Large&space; \alpha" />
 
